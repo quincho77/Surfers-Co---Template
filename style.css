@@ -62,10 +62,20 @@ header {
 }
 
 .white-background {
-    height: 30vh;
-    /* box-shadow: 2px 4px 15px 0 #0635a1 inset; */
+    height: 40vh;
 }
 
+.about {
+    height: 90px;
+    background-color: red;
+    text-align: center;
+}
+
+.about span {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 73px;
+    font-weight: bold;
+}
 .boards {
     /* position: absolute; */
     /* top: 100px; */
